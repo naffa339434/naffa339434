@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**naffa339434/naffa339434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hi there
+I'm a fullstack data scientist working on exciting new projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/naffa339434/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-rizwan-3466961bb//)
+
+
+## 🛠 Skills
+1. Python
+2. Machine learning
+3. Mysql
+4. Deep Learning
+
+
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=naffa339434&show_icons=true&theme=radical)
+
