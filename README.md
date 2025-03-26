@@ -9,10 +9,10 @@ I'm a fullstack data scientist working on exciting new projects.
 
 
 ## 🛠 Skills
-1. Python
-2. Machine learning
-3. Mysql
-4. Deep Learning
+1. C, 
+2. C++,
+3. Hardware Debugging
+4. Machine learning
 
 
 
